@@ -65,6 +65,14 @@ Validation does not end with the initial research and peer review. Continuous st
 
 Both students and professors are actively involved in the validation of new scientific subjects. Professors lead research initiatives, publish their work, and subject their findings to peer review. Students, under the guidance of professors, engage in research and experiments, learning the scientific process firsthand. Participation in conferences and academic discussions enables both professors and students to challenge and refine existing theories, contributing to the collective knowledge and the validation process. This academic ecosystem fosters the critical examination, collaboration, and evolution necessary for the successful integration of new scientific subjects into the broader scientific community.
 
+#
+### Scientific Improvement Value
+
+Computational Agribusiness offers significant improvement for agriculture and agribusiness by leveraging cutting-edge technologies such as data analytics, machine learning, and AI. These computational techniques help optimize various agricultural processes, including crop management, pest control, and resource allocation. By analyzing real-time data from IoT devices, satellites, and sensors, farmers can make more informed decisions, leading to increased productivity, reduced waste, and better resource management. This is crucial in addressing challenges like climate change, food security, and the need for sustainable farming practices.
+
+The field also enhances the entire agricultural supply chain, from production to distribution, by optimizing logistics, minimizing spoilage, and improving the efficiency of marketing and sales. Computational Agribusiness helps analyze vast datasets to streamline operations, ensuring that food is distributed more effectively and with fewer losses. This contributes not only to higher profitability for agribusinesses but also to better availability of fresh produce for consumers. By creating predictive models, this research can assist in foreseeing market trends, crop failures, and supply chain disruptions, which is essential for maintaining a stable food supply.
+
+Moreover, the focus on sustainability is a key improvement value that Computational Agribusiness offers. Through data-driven management of resources such as water, fertilizers, and energy, farming practices can become more environmentally friendly while maintaining or improving yields. This not only reduces the environmental footprint of agriculture but also makes farming more resilient to external shocks, such as droughts or market fluctuations. The integration of computational methods into agribusiness enables more precise, efficient, and sustainable agricultural systems, aligning with global efforts to meet the demands of a growing population and environmental challenges.
 
 #
 ### Related Links
